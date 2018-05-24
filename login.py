@@ -11,3 +11,6 @@ def index():
 
 if __name__ == '__main__':
     app.run()
+
+
+a1 = 1
